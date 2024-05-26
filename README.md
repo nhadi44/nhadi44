@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadi Nurhidayat</h1>
 <h3 align="center">I'm a fullstack web developer from Bandung, Indonesia.</h3>
 
-- 🔭 I’m currently working on **PT. Bringin Inti Teknologi**
+- 🔭 I’m currently working on **Indocyber Global Teknologi**
 
 - 🌱 I’m currently learning **Mobile Programming (Flutter)**
 
